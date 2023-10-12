@@ -19,19 +19,19 @@ Whether you're looking to explore a menu filled with your favorite brews, seekin
 ###	Product Perspective
 "Coffee Break" is a web application that offers a unique blend of aesthetics and functionality to cater to coffee enthusiasts and design aficionados alike. From a product perspective, it stands as a digital sanctuary where the worlds of technology and artistry converge, and it aims to provide an enriching user experience on multiple fronts.
 
-####1. User-Centric Experience:
+1. User-Centric Experience:
 
 "Coffee Break" prioritizes user experience by focusing on intuitive navigation, visually pleasing design, and a user-friendly interface. It offers an interactive and engaging platform that aims to keep users coming back for more.
 
-####2. Visual Appeal:
+2. Visual Appeal:
 
 From the choice of color schemes to the layout and typography, the product is designed to captivate the user's visual senses. It strives to replicate the cozy and inviting atmosphere of a real coffee shop, creating an immersive digital ambiance.
 
-####3. Content Variety:
+3. Content Variety:
 
 "Coffee Break" is not limited to a single function; it is a multi-faceted platform. Users can explore a wide range of coffee-related content, from menu offerings and recipes to coffee culture articles and design inspirations. This versatility makes it appealing to diverse user groups.
 
-####4. Responsiveness:
+4. Responsiveness:
 
 The application is designed to be responsive across various devices and screen sizes. Whether accessed on a desktop, tablet, or smartphone, users can expect consistent and optimal performance.
 
